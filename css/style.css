@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.imagem-carrosel-1{
+	object-fit: cover;
+	object-position: 0 80%;
+	height: 450px;
+}
+
+.imagem-carrosel-2{
+	object-fit: cover;
+	height:  450px;
+}
+
+.title-font{
+	font-family: 'Pacifico', cursive !important;
+}
+
+.title-sub{
+	color: darkred !important;
+}
+
+.btn-especial{
+	background-color: darkred !important;
+	color: #fff !important;
+	border: 2px solid darkred !important;
+	transition: all 1s !important;
+} 
+
+.btn-especial:hover{
+	background-color: #fff !important;
+	color: darkred !important;
+}
+
+.border-especial{
+	border-color: darkred !important;
+}
+
+.img-card-position{
+	object-fit: cover;
+	height: 200px;
+}
+
+.card-width{
+	max-width: 18rem !important;
+}
+
+.color-footer{
+	background-color: darkred;
+}
+
+.bi-github{
+	color: #fff;
+	font-size: 1.5rem;
+}
